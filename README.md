@@ -1,2 +1,2 @@
 # Decision Tree
-Coursera course repository
+Decision Tree repository
