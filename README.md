@@ -1,2 +1,2 @@
-# Coursera-course-
+# Decision Tree
 Coursera course repository
